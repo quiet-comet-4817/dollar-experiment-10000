@@ -9,7 +9,7 @@ This is a public social experiment about participation and reach.
 **This is not a charity fundraiser. The project creator keeps any money received.** There is no prize, repayment, financial return, or promised benefit. Participation is entirely optional.
 
 - PayPal: https://paypal.me/ahmadaloul
-- Website (once GitHub Pages finishes publishing): https://ahmadaloul279-bit.github.io/dollar-experiment-10000/
+- Website (once GitHub Pages finishes publishing): https://quiet-comet-4817.github.io/dollar-experiment-10000/
 
 ## Progress tracking
 
